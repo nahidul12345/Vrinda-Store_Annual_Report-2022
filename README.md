@@ -1,3 +1,4 @@
+![WPPOOL Dashboard Preview](/Project_Screenshot.png)
 # Vrinda-Store_Annual_Report-2022
 Hi
 
